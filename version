@@ -1,0 +1,22 @@
+{
+  "recommended":{
+    "versionName":"v0.1_00a",
+    "ver":1,
+    "build":1,
+    "release":1,
+    "subRelease":"a"
+  },"alpha":{
+    "versionName":"v0.1_00a",
+    "ver":1,
+    "build":1,
+    "release":1,
+    "subRelease":"a"
+  },"changelog":{
+    "v0.1_00a":{
+      "name":"The Beggining",
+      "text":[
+        "First release of the client."
+      ]
+    }
+  }
+}
