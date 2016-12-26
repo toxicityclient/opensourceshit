@@ -17,7 +17,8 @@
       "text":[
         "First release of the client."
       ],
-      "url":""
+      "url":"",
+      "version":"v0.1_00a"
     }
   }
 }
